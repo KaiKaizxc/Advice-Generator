@@ -1,7 +1,10 @@
 # Quote Generator
 
 Have some fun with some quotes??!
-Link: https://lkquotegenerator.netlify.app/
+
+## Link
+https://lkquotegenerator.netlify.app/
+
 ## Available Features
 
 Press the quote generator button to generate new quotes.
